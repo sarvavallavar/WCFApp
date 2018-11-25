@@ -1,0 +1,8 @@
+C:\Gokul\FSE\21 - WCF Assignment - 1 DOTNET\21_WCF_Assignment_1_DOTNET\MyAssignmentServiceHost\bin\Debug\MyAssignmentServiceHost.exe.config
+C:\Gokul\FSE\21 - WCF Assignment - 1 DOTNET\21_WCF_Assignment_1_DOTNET\MyAssignmentServiceHost\bin\Debug\MyAssignmentServiceHost.exe
+C:\Gokul\FSE\21 - WCF Assignment - 1 DOTNET\21_WCF_Assignment_1_DOTNET\MyAssignmentServiceHost\bin\Debug\MyAssignmentServiceHost.pdb
+C:\Gokul\FSE\21 - WCF Assignment - 1 DOTNET\21_WCF_Assignment_1_DOTNET\MyAssignmentServiceHost\bin\Debug\WCFAssignmentLib.dll
+C:\Gokul\FSE\21 - WCF Assignment - 1 DOTNET\21_WCF_Assignment_1_DOTNET\MyAssignmentServiceHost\bin\Debug\WCFAssignmentLib.pdb
+C:\Gokul\FSE\21 - WCF Assignment - 1 DOTNET\21_WCF_Assignment_1_DOTNET\MyAssignmentServiceHost\obj\Debug\MyAssignmentServiceHost.csprojResolveAssemblyReference.cache
+C:\Gokul\FSE\21 - WCF Assignment - 1 DOTNET\21_WCF_Assignment_1_DOTNET\MyAssignmentServiceHost\obj\Debug\MyAssignmentServiceHost.exe
+C:\Gokul\FSE\21 - WCF Assignment - 1 DOTNET\21_WCF_Assignment_1_DOTNET\MyAssignmentServiceHost\obj\Debug\MyAssignmentServiceHost.pdb
